@@ -1,8 +1,12 @@
 ---
-Title: ТАВКР проекта 11435 «Адмирал флота Советского Союза Кузнецов»
+title: 'ТАВКР проекта 11435 «Адмирал флота Советского Союза Кузнецов»'
+external_links:
+    process: true
+    title: false
+    no_follow: true
+    target: _blank
+    mode: active
 ---
-
-# ТАВКР проекта 11435 «Адмирал флота Советского Союза Кузнецов»
 
 - [Основная тема форума](http://forums.airbase.ru/2016/12/t72844--tavkr-proekta-11435-admiral-flota-sovetskogo-soyuza-kuznetso.html)
 - [Фотогалерея](http://photos.wrk.ru/index.php?/category/69)
@@ -23,8 +27,8 @@ Title: ТАВКР проекта 11435 «Адмирал флота Советс�
 ## Авиакрыло
 
 - [Ка-52К «Катран»](http://forums.airbase.ru/2016/12/t94553--ka-52k-katran-palubnyj-vertolyot.463.html)
-- [МиГ-29К](http://www.airbase.ru/hangar/planes/russia/mig/mig-29/mig-29k/) [+поиск](http://www.balancer.ru/tools/search/result/?q=МиГ-29К)
-- [Су-33](http://www.airbase.ru/hangar/russia/soukhoi/su/33/) [+поиск](http://www.balancer.ru/tools/search/result/?q=Су-33%7CСу-27К)
+- [МиГ-29К](http://www.airbase.ru/hangar/planes/russia/mig/mig-29/mig-29k/) | [+поиск](http://www.balancer.ru/tools/search/result/?q=МиГ-29К)
+- [Су-33](http://www.airbase.ru/hangar/russia/soukhoi/su/33/) | [+поиск](http://www.balancer.ru/tools/search/result/?q=Су-33%7CСу-27К)
 
 ## Также
 
