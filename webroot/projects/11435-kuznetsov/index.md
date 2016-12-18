@@ -4,6 +4,8 @@
 - [Фотогалерея](http://photos.wrk.ru/index.php?/category/69)
 - [Чертежи на Судомодельном](http://forums.airbase.ru/2016/12/t57613--tavkr-pr-11435-shifr-krechet-admiral-flota-sovetskogo-soyuza.html)
 
+![ТАВКР проекта 11435 «Адмирал флота Советского Союза Кузнецов»](http://photos.wrk.ru/_data/i/upload/2016/12/18/20161218172539-5fa81fce-me.jpg)
+
 ## Обсуждения
 
 - [Авиакрыло «Кузнецова»](http://forums.airbase.ru/2016/12/t93630--aviakrylo-kuznetsova.html)
